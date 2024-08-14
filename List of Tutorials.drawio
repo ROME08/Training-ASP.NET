@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="UsQVbe9eUdJtgQDEjqO4">
-    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,11 +47,63 @@
         <mxCell id="76m8HocAUgvQL1CjjkNU-20" value="&lt;ol&gt;&lt;li&gt;Service&lt;/li&gt;&lt;li&gt;DbContext&lt;/li&gt;&lt;li&gt;Sqlite&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=-11;" parent="76m8HocAUgvQL1CjjkNU-19" vertex="1">
           <mxGeometry x="5" y="22.5" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="exW8yaBcBpH_pLhkfNhv-1" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;Create a web API with ASP.NET Core controllers&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontColor=#e218b6;" vertex="1" parent="1">
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exW8yaBcBpH_pLhkfNhv-1" target="5k6IDa3UJmt_ZBtU4Fmd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="exW8yaBcBpH_pLhkfNhv-1" target="5k6IDa3UJmt_ZBtU4Fmd-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="254.9999999999999" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exW8yaBcBpH_pLhkfNhv-1" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;Create a web API with ASP.NET Core controllers&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontColor=#e218b6;" parent="1" vertex="1">
           <mxGeometry x="10" y="410" width="490" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="exW8yaBcBpH_pLhkfNhv-2" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;Publish a web app to Azure with Visual Studio&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontColor=#e218b6;" vertex="1" parent="1">
-          <mxGeometry x="10" y="550" width="490" height="40" as="geometry" />
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exW8yaBcBpH_pLhkfNhv-2" target="5k6IDa3UJmt_ZBtU4Fmd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="exW8yaBcBpH_pLhkfNhv-2" target="5k6IDa3UJmt_ZBtU4Fmd-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="809.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exW8yaBcBpH_pLhkfNhv-2" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;Publish a web app to Azure with Visual Studio&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontColor=#e218b6;" parent="1" vertex="1">
+          <mxGeometry x="20" y="700" width="490" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5k6IDa3UJmt_ZBtU4Fmd-1" target="5k6IDa3UJmt_ZBtU4Fmd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-1" value="&lt;ol&gt;&lt;li&gt;Create a web API project&lt;/li&gt;&lt;li&gt;Create ASP.NET Core Controllers&lt;br&gt;&lt;/li&gt;&lt;li&gt;Add CRUD operations&lt;/li&gt;&lt;li&gt;Test web API action methods&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="590" y="400" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-3" value="Tools" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="980" y="384.38" width="150" height="91.25" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-4" value="&lt;ol&gt;&lt;li&gt;.NET HTTP REPL&lt;/li&gt;&lt;li&gt;.http files&lt;/li&gt;&lt;li&gt;VSCode&lt;/li&gt;&lt;li&gt;Http Verbs&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=-11;" vertex="1" parent="5k6IDa3UJmt_ZBtU4Fmd-3">
+          <mxGeometry y="21.25" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-13" value="Learning (Usage)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="510" width="145" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-14" value="&lt;ol&gt;&lt;li&gt;ControllerBase&lt;/li&gt;&lt;li&gt;Attributes&lt;/li&gt;&lt;li&gt;Routing&lt;/li&gt;&lt;li&gt;MVC&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5k6IDa3UJmt_ZBtU4Fmd-13">
+          <mxGeometry x="-2.5" y="20" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5k6IDa3UJmt_ZBtU4Fmd-17" target="5k6IDa3UJmt_ZBtU4Fmd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-17" value="&lt;ol&gt;&lt;li&gt;Create an ASP.NET Core web app&lt;/li&gt;&lt;li&gt;Publish a web app to Azure&lt;/li&gt;&lt;li&gt;Update a web app&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="620" y="665" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-19" value="Tools" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="980" y="658.59" width="150" height="122.81" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-20" value="&lt;ol&gt;&lt;li&gt;Visual Studio 2022&lt;/li&gt;&lt;li&gt;Azure App Service&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=-11;" vertex="1" parent="5k6IDa3UJmt_ZBtU4Fmd-19">
+          <mxGeometry x="5" y="41.41" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-26" value="Built In" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="820" width="145" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5k6IDa3UJmt_ZBtU4Fmd-27" value="&lt;ol&gt;&lt;li&gt;Workloads&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5k6IDa3UJmt_ZBtU4Fmd-26">
+          <mxGeometry x="-2.5" y="45" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
