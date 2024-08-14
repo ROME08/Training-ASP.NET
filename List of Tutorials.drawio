@@ -1,51 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="UsQVbe9eUdJtgQDEjqO4">
-    <mxGraphModel dx="1320" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="76m8HocAUgvQL1CjjkNU-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Microsoft Tutorials&lt;/h1&gt;" style="text;html=1;overflow=hidden;rounded=0;align=center;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="76m8HocAUgvQL1CjjkNU-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Microsoft Tutorials&lt;/h1&gt;" style="text;html=1;overflow=hidden;rounded=0;align=center;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="480" y="20" width="350" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="76m8HocAUgvQL1CjjkNU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="76m8HocAUgvQL1CjjkNU-2" target="76m8HocAUgvQL1CjjkNU-4">
+        <mxCell id="76m8HocAUgvQL1CjjkNU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="76m8HocAUgvQL1CjjkNU-2" target="76m8HocAUgvQL1CjjkNU-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="76m8HocAUgvQL1CjjkNU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="76m8HocAUgvQL1CjjkNU-2" target="76m8HocAUgvQL1CjjkNU-19">
+        <mxCell id="76m8HocAUgvQL1CjjkNU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="76m8HocAUgvQL1CjjkNU-2" target="76m8HocAUgvQL1CjjkNU-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="76m8HocAUgvQL1CjjkNU-2" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;Create a web UI with ASP.NET Core&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontColor=#e218b6;" vertex="1" parent="1">
+        <mxCell id="76m8HocAUgvQL1CjjkNU-2" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;Create a web UI with ASP.NET Core&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontColor=#e218b6;" parent="1" vertex="1">
           <mxGeometry x="10" y="210" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="76m8HocAUgvQL1CjjkNU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="76m8HocAUgvQL1CjjkNU-4" target="76m8HocAUgvQL1CjjkNU-8">
+        <mxCell id="76m8HocAUgvQL1CjjkNU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="76m8HocAUgvQL1CjjkNU-4" target="76m8HocAUgvQL1CjjkNU-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="76m8HocAUgvQL1CjjkNU-4" value="&lt;ol&gt;&lt;li&gt;Create Razor Pages&lt;/li&gt;&lt;li&gt;Use tag helpers&lt;/li&gt;&lt;li&gt;Use Razor page handlers&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="76m8HocAUgvQL1CjjkNU-4" value="&lt;ol&gt;&lt;li&gt;Create Razor Pages&lt;/li&gt;&lt;li&gt;Use tag helpers&lt;/li&gt;&lt;li&gt;Use Razor page handlers&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="420" y="200" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="76m8HocAUgvQL1CjjkNU-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="76m8HocAUgvQL1CjjkNU-8" target="76m8HocAUgvQL1CjjkNU-16">
+        <mxCell id="76m8HocAUgvQL1CjjkNU-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="76m8HocAUgvQL1CjjkNU-8" target="76m8HocAUgvQL1CjjkNU-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="76m8HocAUgvQL1CjjkNU-8" value="Tools" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="76m8HocAUgvQL1CjjkNU-8" value="Tools" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="680" y="196.25" width="150" height="67.5" as="geometry" />
         </mxCell>
-        <mxCell id="76m8HocAUgvQL1CjjkNU-9" value="&lt;ol&gt;&lt;li&gt;.NET CLI&lt;/li&gt;&lt;li&gt;Visual Studio Code&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=-11;" vertex="1" parent="76m8HocAUgvQL1CjjkNU-8">
+        <mxCell id="76m8HocAUgvQL1CjjkNU-9" value="&lt;ol&gt;&lt;li&gt;.NET CLI&lt;/li&gt;&lt;li&gt;Visual Studio Code&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=-11;" parent="76m8HocAUgvQL1CjjkNU-8" vertex="1">
           <mxGeometry x="5" y="27.5" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="76m8HocAUgvQL1CjjkNU-16" value="Tasks" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="76m8HocAUgvQL1CjjkNU-16" value="Tasks" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="900" y="167.19" width="222.5" height="125.62" as="geometry" />
         </mxCell>
-        <mxCell id="76m8HocAUgvQL1CjjkNU-17" value="&lt;ol&gt;&lt;li&gt;Clone Project with built in service&lt;/li&gt;&lt;li&gt;Customize Pages&lt;/li&gt;&lt;li&gt;Create a new page&lt;/li&gt;&lt;li&gt;Register Service&lt;/li&gt;&lt;li&gt;Inject Pizza Service to PageModel&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=-11;" vertex="1" parent="76m8HocAUgvQL1CjjkNU-16">
+        <mxCell id="76m8HocAUgvQL1CjjkNU-17" value="&lt;ol&gt;&lt;li&gt;Clone Project with built in service&lt;/li&gt;&lt;li&gt;Customize Pages&lt;/li&gt;&lt;li&gt;Create a new page&lt;/li&gt;&lt;li&gt;Register Service&lt;/li&gt;&lt;li&gt;Inject Pizza Service to PageModel&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=-11;" parent="76m8HocAUgvQL1CjjkNU-16" vertex="1">
           <mxGeometry x="2.5" y="34.370000000000005" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="76m8HocAUgvQL1CjjkNU-19" value="Built In" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="76m8HocAUgvQL1CjjkNU-19" value="Built In" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="110" y="292.81" width="150" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="76m8HocAUgvQL1CjjkNU-20" value="&lt;ol&gt;&lt;li&gt;Service&lt;/li&gt;&lt;li&gt;DbContext&lt;/li&gt;&lt;li&gt;Sqlite&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=-11;" vertex="1" parent="76m8HocAUgvQL1CjjkNU-19">
+        <mxCell id="76m8HocAUgvQL1CjjkNU-20" value="&lt;ol&gt;&lt;li&gt;Service&lt;/li&gt;&lt;li&gt;DbContext&lt;/li&gt;&lt;li&gt;Sqlite&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=-11;" parent="76m8HocAUgvQL1CjjkNU-19" vertex="1">
           <mxGeometry x="5" y="22.5" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="exW8yaBcBpH_pLhkfNhv-1" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;Create a web API with ASP.NET Core controllers&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontColor=#e218b6;" vertex="1" parent="1">
+          <mxGeometry x="10" y="410" width="490" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="exW8yaBcBpH_pLhkfNhv-2" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;Publish a web app to Azure with Visual Studio&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontColor=#e218b6;" vertex="1" parent="1">
+          <mxGeometry x="10" y="550" width="490" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
