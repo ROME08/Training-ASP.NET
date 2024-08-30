@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8" pages="2">
   <diagram name="Page-1" id="UsQVbe9eUdJtgQDEjqO4">
     <mxGraphModel dx="1295" dy="1431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2mizZrZdgJAgpZiV5OGl" name="Page-2">
-    <mxGraphModel dx="1372" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1295" dy="1493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
         <mxCell id="QEKQbQ9Un-jW53u--XJ4-38" value="Develop an ASP.NET Core web app that consumes an API" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=26;fontColor=#0E2C87;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="300" y="40" width="630" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PhDRm0uQ83pJ5UE0LQ-s-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QEKQbQ9Un-jW53u--XJ4-39" target="PhDRm0uQ83pJ5UE0LQ-s-3">
+        <mxCell id="PhDRm0uQ83pJ5UE0LQ-s-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QEKQbQ9Un-jW53u--XJ4-39" target="PhDRm0uQ83pJ5UE0LQ-s-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1070" y="270" as="targetPoint" />
           </mxGeometry>
@@ -136,11 +136,25 @@
         <mxCell id="QEKQbQ9Un-jW53u--XJ4-41" value="&lt;p&gt;&lt;/p&gt;&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;&quot;&gt;Two model types of APIs&lt;/li&gt;&lt;li style=&quot;&quot;&gt;HTTP Endpoints / RESTful API&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="130" y="340" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PhDRm0uQ83pJ5UE0LQ-s-3" value="Key Points" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="PhDRm0uQ83pJ5UE0LQ-s-3" value="Key Points" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="1080" y="170" width="212.5" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="PhDRm0uQ83pJ5UE0LQ-s-4" value="&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Annotate your code with attributes&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;that describe your API endpoints,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;parameters, and responses&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="PhDRm0uQ83pJ5UE0LQ-s-3">
+        <mxCell id="PhDRm0uQ83pJ5UE0LQ-s-4" value="&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Annotate your code with attributes&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;that describe your API endpoints,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;parameters, and responses&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="PhDRm0uQ83pJ5UE0LQ-s-3" vertex="1">
           <mxGeometry x="-3.75" y="70" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9EscFIarrjC8KoFzXkU8-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EscFIarrjC8KoFzXkU8-1" target="9EscFIarrjC8KoFzXkU8-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9EscFIarrjC8KoFzXkU8-1" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;Implement HTTP operations in ASP.NET Razor Pages&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontColor=#184ae2;" vertex="1" parent="1">
+          <mxGeometry y="610" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9EscFIarrjC8KoFzXkU8-4" value="Learning Objectives" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18.75" y="740" width="552.5" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="9EscFIarrjC8KoFzXkU8-5" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Implement HTTP Clients in .NET Core&lt;/li&gt;&lt;li&gt;Use HTTP Clients to perform safe and unsafe operations&lt;/li&gt;&lt;li&gt;Add code to support HTTP operations in an ASP.NET Core Razor Pages app&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="9EscFIarrjC8KoFzXkU8-4">
+          <mxGeometry x="12.5" y="71" width="540" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
